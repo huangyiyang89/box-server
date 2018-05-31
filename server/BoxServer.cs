@@ -4,10 +4,10 @@ using Point = System.Drawing.Point;
 
 namespace Server
 {
-    public class Server
+    public class BoxServer
     {
         private Point _point;
-        public Server()
+        public BoxServer()
         {
             Controller.MouseMoveTo(1920,1080);
             _point=new Point();

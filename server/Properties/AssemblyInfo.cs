@@ -7,11 +7,11 @@ using System.Windows;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("tvServer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Box")]
+[assembly: AssemblyDescription("Box PC server")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("tvServer")]
+[assembly: AssemblyCompany("Huang Yiyang")]
+[assembly: AssemblyProduct("Box-Server")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

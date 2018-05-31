@@ -14,7 +14,7 @@ namespace Server
         public MainWindow()
         {
             InitializeComponent();
-            var server = new Server();
+            var server = new BoxServer();
             InitIp();
         }
         
